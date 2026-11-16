@@ -1,0 +1,1 @@
+auth details for myapp
